@@ -1,4 +1,2 @@
-# nbdev template
-
-Use this template to more easily create your nbdev project.
-
+# deoldify
+Try out some techniques discussed in the deoldify talk
